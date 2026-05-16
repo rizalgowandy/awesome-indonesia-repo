@@ -388,6 +388,7 @@ Menghubungkan para Software Engineer kece di tanah air yang terpaksa harus terke
 - [PySastrawi](https://github.com/har07/PySastrawi) - Python port of high quality stemmer library for Indonesian Language.
 - [Indonesian NLP resources](https://github.com/kmkurn/id-nlp-resource) - A list of Indonesian NLP resources related to language modeling, sentiment analysis, and more.
 - [NLP Bahasa Indonesia Resources](https://github.com/louisowen6/NLP_bahasa_resources) - This repository provides link to useful dataset and another resources for NLP in Bahasa Indonesia.
+- [SIGER LLM](https://github.com/soden46/siger-llm) - An experimental general-purpose language model built from scratch with an SSM-based architecture, LoRA fine-tuning, evaluation and optimization pipelines, with Lampung Dialek O as an early low-resource language test case.
 
 ## Miscellaneous
 
